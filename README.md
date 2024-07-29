@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [sumitkushwaha.netlify.app](https://sumitkushwaha.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sumitkushwaha.netlify.app/)
 
 - 📫 How to reach me **sumitkushwaha2411003@gmail.com**
 
